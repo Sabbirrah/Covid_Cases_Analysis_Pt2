@@ -1,4 +1,4 @@
-# Tableau-Project-1
+# Analysis and Visualisation of Covid cases
 
 This Project will include the usage of:
 
