@@ -1,10 +1,16 @@
-# Analysis and Visualisation of Covid cases
+#Project Title: COVID Data Analysis using SQL and Tableau
 
-This Project will include the usage of:
+Description: In this project, we explored and analyzed data related to COVID-19 cases. We utilized SQL in SSMS to perform various queries such as data exploration, format conversion, table join, aggregation functions, CTE creation, and temporary table creation. Additionally, we used Tableau for data visualization to create interactive dashboards and charts.
 
-- SSMS to Retreeve the interested Data 
-- Excel to create tables and clean interested Data
+Features:
 
-- Tableau for visualisation https://public.tableau.com/app/profile/sabbir.rahman1105/viz/CovidDashboardProject_16760821846910/Dashboard1
+Data exploration of COVID-19 cases
+Format conversion of the data
+Joining tables to correlate data
+Aggregation functions to summarize data
+Creation of CTEs to simplify queries
+Creation of temporary tables for efficient data manipulation
+Data visualization using Tableau
+Technology Stack: SQL, SSMS, Tableau
 
-![Tableau Project 1](https://user-images.githubusercontent.com/116674419/219245910-a4585294-ddc7-474e-a422-13a5b2d5fc79.png)
+Outcome: This project provides a comprehensive analysis of COVID-19 cases using SQL and Tableau for data visualization. It enables users to explore and analyze COVID-19 data in a structured manner, allowing for informed decision-making in combating the pandemic. The interactive dashboards and charts created with Tableau provide a clear and concise representation of the data. The code and dashboards are available on GitHub for reference and collaboration.
